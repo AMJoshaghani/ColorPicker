@@ -13,6 +13,3 @@ this script help you for find color you want and get its **RGB** and **Hash**.
 **Note: python files are in bin folder**
 ### witch frame work used?
 **tkinter**
-
->God bless who bless peoples
-***Amopro***
