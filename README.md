@@ -1,6 +1,5 @@
 # ColorPicker
 this script help you for find color you want and get its **RGB** and **Hash**.
-[![AMoPRo](https://chor.ir/api/file/image/BQADBAADEgYAAn1TyVB3IDxKlNRrogI.png "AMoPRo")](http://amopro.ir "AMoPRo")
 
 ## how to use it?
 - if your os is from debian, you can open `Linux` directory from `executables` directory.
