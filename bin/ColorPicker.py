@@ -1,4 +1,3 @@
-# in the name of god merciful | به نام خداوند بخشنده مهربان
 from tkinter import *
 from tkinter.colorchooser import *
 # ---------------------------------
